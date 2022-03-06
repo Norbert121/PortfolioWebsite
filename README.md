@@ -1,4 +1,4 @@
-# PortfolioWebsite
+# Portfolio Website
 This project is a fully responsive my basic portfolio.
 # Project Goals
 1. Learning HTML and CSS
